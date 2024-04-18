@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tic-tac-toe/static/css/main.2b386739.css",
+    "main.js": "/react-tic-tac-toe/static/js/main.28835e91.js",
+    "static/media/game-logo.png": "/react-tic-tac-toe/static/media/game-logo.8e78fca90221d93a071c.png",
+    "static/media/bg-pattern-dark.png": "/react-tic-tac-toe/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/react-tic-tac-toe/index.html",
+    "main.2b386739.css.map": "/react-tic-tac-toe/static/css/main.2b386739.css.map",
+    "main.28835e91.js.map": "/react-tic-tac-toe/static/js/main.28835e91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b386739.css",
+    "static/js/main.28835e91.js"
+  ]
+}
